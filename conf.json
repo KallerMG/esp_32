@@ -1,13 +1,13 @@
 
 {
-	"network": {
-		"ssid": "nome da rede",
-		"password": "senha da rede"
-	},
-	"git": {
-		"url": "https://github.com/rdsmachado/ota_micropython/",
+    "network": {
+        "ssid": "#erro404#",
+        "password": "NET10net@"
+    },
+    "git": {
+        "url": "https://github.com/KallerMG/esp_32/",
         "dir": "src"
-	},
+    },
 
 }
 

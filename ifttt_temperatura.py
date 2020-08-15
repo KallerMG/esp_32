@@ -39,9 +39,8 @@ def inicio():
 
         except OSError as e:
           print('Falha ao enviar os dados.')
-        sleep(1800)
+        sleep(15)
 
 import _thread
 
 _thread.start_new_thread(inicio,())
-

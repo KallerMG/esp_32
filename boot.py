@@ -9,7 +9,7 @@ try:
     c.download_update()
     print("\n\nAgora vai comecar o codigo que foi baixado\n")
     utime.sleep(2)
-    exec(open('./exemplo.py').read()) #: como ja esta no diretorio que foi baixado os codigos executa o exemplo.py
+    exec(open('./ifttt_temperatura.py').read()) #: como ja esta no diretorio que foi baixado os codigos executa o exemplo.py
 except Exception as e:
     print('ERRO: ' +str(e))  
     
