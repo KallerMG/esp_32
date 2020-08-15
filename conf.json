@@ -1,0 +1,15 @@
+
+{
+	"network": {
+		"ssid": "nome da rede",
+		"password": "senha da rede"
+	},
+	"git": {
+		"url": "https://github.com/rdsmachado/ota_micropython/",
+        "dir": "src"
+	},
+
+}
+
+
+
